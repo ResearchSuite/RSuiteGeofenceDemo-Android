@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.researchsuite.rsuitegeofencedemo.MainActivity">
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/log_in_button"
+        style="@style/Widget.YADL.Onboarding.Button"
+        tools:text="@string/log_in_button_text"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="40dp" />
+
+</FrameLayout>

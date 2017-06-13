@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSuiteGeofenceDemo</string>
+    <string name="log_in_button_text">Log In</string>
+    <string name="log_out_button_text">Log Out</string>
+</resources>
