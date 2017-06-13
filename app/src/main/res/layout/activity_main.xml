@@ -8,7 +8,7 @@
 
     <android.support.v7.widget.AppCompatButton
         android:id="@+id/log_in_button"
-        style="@style/Widget.YADL.Onboarding.Button"
+        style="@style/Widget.RSuite.Onboarding.Button"
         tools:text="@string/log_in_button_text"
         android:layout_gravity="center_horizontal|bottom"
         android:layout_marginBottom="40dp" />
