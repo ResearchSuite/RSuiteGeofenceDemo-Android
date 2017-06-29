@@ -65,6 +65,8 @@ public class RSuiteApplication extends Application {
                 getString(R.string.ohmage_queue_directory)
         );
 
+        RSuiteGeofenceManager.init(this);
+
 //        YADLResourcePathManager resourcePathManager = new YADLResourcePathManager();
 //        ResourcePathManager.init(resourcePathManager);
 //        //config task builder singleton
